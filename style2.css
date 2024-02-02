@@ -1,0 +1,124 @@
+#navbar{
+    position:sticky;
+    top: 0;
+    left :0;
+    z-index:100;
+    padding: .3rem  3rem;
+    box-shadow: 5px 5px 20px rgba(0,0,0.5);
+    background-color:lightgrey;
+    
+}
+#navbar1 { 
+    background-color:darkgrey;
+
+} 
+.card{
+    width: 1700px;
+    height: 1800px;
+    background:lightgoldenrodyellow!important;
+    border: none !important;
+    
+    
+   
+}
+.card1{
+    background-color:pink;
+
+      /*  width: 100px;
+        height: 200px;
+        background: #e5e5e5 !important;
+        border: none !important;
+        box-shadow: 15px 20px 20px rgba(0,0,0,.3),
+        inset 4px 4px 10px white;
+        border-radius: 20px !important;
+        margin:20px 60px;
+        transition: .2s;*/
+    width:120%;
+    min-height: 40vh;
+    
+    justify-content: right;
+    align-items:left;
+
+        width :200px;
+        height:200px;
+        margin:0 auto;
+        flex-wrap:wrap-reverse;
+}
+       /* width:100%;
+        min-height: 50vh;
+        display:flex;
+        justify-content: center;
+        align-items:center;*/
+    
+    
+}
+.card2{
+    width:120%;
+    min-height: 40vh;
+    display:flex;
+    justify-content:left;
+    align-items:left;
+    width :200px;
+    height:200px;
+    
+
+
+
+
+}
+.card3{
+   border:solid;
+   color:red;
+   border-color:black;
+   width:400;
+   height:400;
+   background-color:gainsboro;
+   
+
+  
+}
+div{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    margin:auto;
+    padding-right: 40px;
+    text-align:center;
+}
+.card4{
+    border:solid;
+   color:red;
+   border-color:black;
+   width:400;
+   height:400;
+   background-color:pink;
+}
+button{
+    border:solid;
+   color:red;
+   border-color:black;
+   width:400;
+   height:400;
+   background-color:goldenrod;
+   
+}
+.card5{
+    border:solid;
+    color:green;
+    border-color:blue;
+    width:400;
+    height:400;
+    background-color:whitesmoke;
+}
+.checked {
+    color: orange;
+  }
+  .card6{
+    border:solid;
+    color:green;
+    
+    width:800;
+    height:800;
+    background-color:black;
+}
